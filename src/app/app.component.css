@@ -1,0 +1,23 @@
+.container1, .container2, .container3, .container4 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.c1, .c2 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.c2 {
+    padding-top: 80vh;
+    width: 100%;
+}
+
+.BlockComponent {
+    text-align: center;
+    align-items: center;
+}
+
+
